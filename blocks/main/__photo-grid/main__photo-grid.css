@@ -1,0 +1,19 @@
+.main__photo-grid {
+    padding: 64px 16px 0;
+}
+
+@media screen and (min-width: 768px) {
+    .main__photo-grid {
+        padding-top: 88px;
+        padding-left: 24px;
+        padding-right: 24px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .main__photo-grid {
+        padding-top: 92px;
+        padding-left: 48px;
+        padding-right: 48px;
+    }
+}
